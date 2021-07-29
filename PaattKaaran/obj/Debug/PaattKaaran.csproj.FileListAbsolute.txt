@@ -1,0 +1,15 @@
+D:\Projects\PaattKaaran\PaattKaaran\bin\Debug\PaattKaaran.exe.config
+D:\Projects\PaattKaaran\PaattKaaran\bin\Debug\PaattKaaran.exe
+D:\Projects\PaattKaaran\PaattKaaran\bin\Debug\PaattKaaran.pdb
+D:\Projects\PaattKaaran\PaattKaaran\bin\Debug\Interop.WMPLib.dll
+D:\Projects\PaattKaaran\PaattKaaran\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\PaattKaaran\PaattKaaran\obj\Debug\PaattKaaran.csprojAssemblyReference.cache
+D:\Projects\PaattKaaran\PaattKaaran\obj\Debug\Interop.WMPLib.dll
+D:\Projects\PaattKaaran\PaattKaaran\obj\Debug\AxInterop.WMPLib.dll
+D:\Projects\PaattKaaran\PaattKaaran\obj\Debug\PaattKaaran.csproj.ResolveComReference.cache
+D:\Projects\PaattKaaran\PaattKaaran\obj\Debug\PaattKaaran.Form1.resources
+D:\Projects\PaattKaaran\PaattKaaran\obj\Debug\PaattKaaran.Properties.Resources.resources
+D:\Projects\PaattKaaran\PaattKaaran\obj\Debug\PaattKaaran.csproj.GenerateResource.cache
+D:\Projects\PaattKaaran\PaattKaaran\obj\Debug\PaattKaaran.csproj.CoreCompileInputs.cache
+D:\Projects\PaattKaaran\PaattKaaran\obj\Debug\PaattKaaran.exe
+D:\Projects\PaattKaaran\PaattKaaran\obj\Debug\PaattKaaran.pdb
